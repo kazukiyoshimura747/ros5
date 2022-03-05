@@ -2,7 +2,7 @@
 
 #// SPDX-License-Identifier: GPL-2.0
 #/*
-# *Copyright (C) 2019 JaneDue <jame@example.com>
+# *Copyright (C) 2022 Kazuki Yoshimura All rights reserved
 # */
 
 import rospy
