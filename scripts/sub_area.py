@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-#// SPDX-License-Identifier: GPL-2.0
+#// SPDX-License-Identifier: GPL-3.0
 #/*
 # *Copyright (C) 2022 Kazuki Yoshimura All rights reserved
 # */
